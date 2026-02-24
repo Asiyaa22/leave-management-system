@@ -7,14 +7,14 @@ export default function AdminEmployees() {
         name: "Hyderabad",
         manager: {
             id: 100,
-            name: "Ramesh Kumar",
+            name: "Harihar menon",
             role: "Branch Manager",
         },
         team: [
-            { id: 1, name: "Bhaskar", role: "Frontend Dev", total: 15, taken: 5 },
-            { id: 2, name: "Anil", role: "Backend Dev", total: 15, taken: 10 },
+            { id: 2, name: "Asiya", role: "Ed-Tech", total: 15, taken: 10 },
             { id: 3, name: "Sneha", role: "UI Designer", total: 15, taken: 3 },
-            { id: 4, name: "Rahul", role: "QA Engineer", total: 15, taken: 8 },
+            { id: 1, name: "Bhaskar", role: "Frontend Dev", total: 15, taken: 5 },
+            { id: 4, name: "Rohith", role: "Full Stack Dev", total: 15, taken: 8 },
         ],
     };
 
